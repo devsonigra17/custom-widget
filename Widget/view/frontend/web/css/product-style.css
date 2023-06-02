@@ -1,0 +1,11 @@
+span.product-price-label{
+    color:#666666; 
+    font-size:12px;
+}
+span.product-price{
+    font-weight:bold;
+}
+a.product-link
+{
+    color:#333333;
+}
